@@ -1,0 +1,27 @@
+h1 {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-red {
+    color: red;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+.greeting:hover{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color:aqua;
+    cursor: crosshair;
+}
+
+h1, h2, h3, h4, h5 {
+    color: green;
+}
